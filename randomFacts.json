@@ -1,0 +1,55 @@
+{
+    "facts": [
+      {
+        "id": 1,
+        "category": "Science",
+        "fact": "Bananas are berries, but strawberries aren't."
+      },
+      {
+        "id": 2,
+        "category": "Space",
+        "fact": "A day on Venus is longer than a year on Venus."
+      },
+      {
+        "id": 3,
+        "category": "History",
+        "fact": "Napoleon was once attacked by a horde of bunnies."
+      },
+      {
+        "id": 4,
+        "category": "Animals",
+        "fact": "Octopuses have three hearts and blue blood."
+      },
+      {
+        "id": 5,
+        "category": "Technology",
+        "fact": "The first email was sent in 1971 by Ray Tomlinson."
+      },
+      {
+        "id": 6,
+        "category": "Geography",
+        "fact": "Canada has more lakes than the rest of the world combined."
+      },
+      {
+        "id": 7,
+        "category": "Health",
+        "fact": "The human brain generates enough electricity to power a light bulb."
+      },
+      {
+        "id": 8,
+        "category": "Food",
+        "fact": "Honey never spoils and can last for thousands of years."
+      },
+      {
+        "id": 9,
+        "category": "Sports",
+        "fact": "The Olympic Games were originally a religious festival in ancient Greece."
+      },
+      {
+        "id": 10,
+        "category": "Art",
+        "fact": "The Mona Lisa has no visible eyelashes or eyebrows."
+      }
+    ]
+  }
+  

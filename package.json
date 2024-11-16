@@ -1,0 +1,26 @@
+{
+  "name": "interesting-random-facts",
+  "version": "1.0.0",
+  "description": "An npm package which shows interesting facts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulAzizFahim/Interesting-NPM-Package.git"
+  },
+  "keywords": [
+    "interesting",
+    "npm",
+    "fun",
+    "random"
+  ],
+  "author": "Abdul Aziz (Fahim)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdulAzizFahim/Interesting-NPM-Package/issues"
+  },
+  "homepage": "https://github.com/AbdulAzizFahim/Interesting-NPM-Package#readme"
+}
